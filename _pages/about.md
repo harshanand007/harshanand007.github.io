@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% include base_path %}
 
 Hi there! Welcome to my website. 😊
 <br><br>I'm Harsh, an incoming Ph.D. student in Systems Engineering at the [Engineering Systems and Environment](https://engineering.virginia.edu/departments/engineering-systems-and-environment) department of the [University of Virginia]( https://engineering.virginia.edu/). I will be advised by [Dr. Negin Alemazkoor]( https://engineering.virginia.edu/faculty/negin-alemazkoor). I completed my M.S. from [The Pennsylvania State University](https://www.psu.edu/), advised by [Dr. Mohamad Darayi]( https://greatvalley.psu.edu/person/mohamad-darayi). I earned my B.Tech. from [Manipal University]( https://manipal.edu/mit.html).
