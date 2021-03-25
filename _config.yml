@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Harsh Anand"
   avatar           : "Photo-Harsh.png"
-  bio              : "Incoming Ph.D. Student at <a style='color: black;' href='https://engineering.virginia.edu/'>University of Virginia</a>"
+  bio              : "Incoming Ph.D. Student at the <a style='color: black;' href='https://engineering.virginia.edu/'>University of Virginia</a>"
   location         : "Charlottesville, VA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=qKvyUmUAAAAJ&hl=en"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Harsh-Anand-4"
+  email            : "hpa5116[at]psu[dot]edu"
+  researchgate     : "https://www.researchgate.net/profile/Harsh-Anand-4"
   uri              :
   bitbucket        :
   codepen          :
