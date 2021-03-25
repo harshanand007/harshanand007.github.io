@@ -1,7 +1,6 @@
 ---
 title: "THA-A Hybrid Approach for Rule Induction System using Rough Set Theory, Genetic Algorithm and Boolean algebra"
 collection: publications
-permalink: /publication/2014-06-30-hybrid-approach-rule-induction
 date: 2014-06-30
 venue: 'Global Journal of Research In Engineering'
 paperurl: '/files/manuscripts/2014-06-30-hybrid-approach-rule-induction.pdf'
