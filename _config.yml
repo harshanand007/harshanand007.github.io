@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : harshanand007
+  username               : #harshanand007
 facebook:
   username               :
   app_id                 :
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Harsh Anand"
   avatar           : "Photo-Harsh.png"
-  bio              : "Ph.D. Student at the <a style='color: black;' href='https://engineering.virginia.edu/'>University of Virginia</a>"
+  bio              : "Ph.D. Student at <a style='color: black;' href='https://engineering.virginia.edu/'>UVA</a>"
   location         : "Charlottesville, VA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=qKvyUmUAAAAJ&hl=en"
-  email            : "hpa5116[at]psu[dot]edu"
+  email            : "yyf8rj@virginia.edu"
   researchgate     : "https://www.researchgate.net/profile/Harsh-Anand-4"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"harshanand007"
+  twitter          : "harshanand007"
   vine             :
   weibo            :
   xing             :
